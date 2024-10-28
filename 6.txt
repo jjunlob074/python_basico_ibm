@@ -1,0 +1,5 @@
+HOLA MUNDO
+Este es un archivo de texto de prueba.
+Aquí tenemos algunas palabras en MAYÚSCULAS y otras en minúsculas.
+PYTHON es un lenguaje de programación MULTIPROPÓSITO.
+ME ENCANTA PROGRAMAR EN PYTHON.
